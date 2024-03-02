@@ -9,7 +9,7 @@ __New York University, Grossman School of Medicine__
 - __[Neural circuits/network computations](https://elifesciences.org/articles/82426)__ - understand how cognitive functions arise from the blanket knitted by neurons.
 - __[Social decision-making driven under emotions](https://www.pnas.org/doi/10.1073/pnas.2302484120)__ - understand how our mind handles complex social interactions to serve our feelings.
 ---
-![Personal picture](https://github.com/bsbbs/bsbbs.github.io/blob/master/IMG_8828.jpg)
+![Personal picture](https://github.com/bsbbs/bsbbs.github.io/blob/21951f7c47b8cbcacec76dc4319e7f14e88341ab/IMG_8828.jpg)
 ---
 
 # h1 Heading 8-)
