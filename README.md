@@ -3,7 +3,7 @@ __Postdoc Research Fellow__
 __New York University, Grossman School of Medicine__
 
 ---
-__Research Interests__
+### Research Interests
 
 - __[Value coding and decision-making](https://nodeca.github.io/pica/demo/)__ - answer how your brain processes something you like or hate and choose between them.
 - __[Neural circuits/network computations](https://elifesciences.org/articles/82426)__ - understand how cognitive functions arise from the blanket knitted by neurons.
