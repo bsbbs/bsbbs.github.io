@@ -1,4 +1,6 @@
-# [Postdoc research fellow, New York University Grossman School of Medicine](https://www.neuroeconomicslab.org/people)
+# PhD
+### Postdoc research fellow
+### New York University Grossman School of Medicine
 ---
 __Research Interests__
 
