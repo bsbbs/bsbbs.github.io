@@ -11,6 +11,7 @@ __New York University, Grossman School of Medicine__
 
 ---
 ![photo](https://github.com/bsbbs/bsbbs.github.io/blob/main/IMG_8828.jpg?raw=true)
+
 ---
 
 # h1 Heading 8-)
