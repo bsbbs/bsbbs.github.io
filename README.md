@@ -11,8 +11,8 @@ __New York University, Grossman School of Medicine__
 
 ---
 ![photo](https://github.com/bsbbs/bsbbs.github.io/blob/main/IMG_8828.jpg?raw=true)
-
 Bo Shen at his favorite Jamaica Bay, wildlife refuge, New York, Feb/2024
+
 ---
 # h1 Heading 8-)
 ## h2 Heading
