@@ -1,6 +1,5 @@
-# PhD
-### Postdoc research fellow
-### New York University Grossman School of Medicine
+__Postdoc research fellow__
+__New York University, Grossman School of Medicine__
 ---
 __Research Interests__
 
