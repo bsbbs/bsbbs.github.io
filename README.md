@@ -1,13 +1,11 @@
-# bsbbs.github.io
+# [Postdoc research fellow, New York University Grossman School of Medicine](https://www.neuroeconomicslab.org/people)
 ---
-__Advertisement :)__
+__Research Interests__
 
-- __[pica](https://nodeca.github.io/pica/demo/)__ - high quality and fast image
-  resize in browser.
-- __[babelfish](https://github.com/nodeca/babelfish/)__ - developer friendly
-  i18n with plurals support and easy syntax.
+- __[Value coding and decision-making](https://nodeca.github.io/pica/demo/)__ - answer how your brain processes something you like or hate and choose between them.
+- __[Neural circuits/network computations](https://elifesciences.org/articles/82426)__ - understand how cognitive functions arise from the blanket knitted by neurons.
+- __[Social decision-making driven under emotions](https://www.pnas.org/doi/10.1073/pnas.2302484120)__ - understand how our mind handles complex social interactions to serve our feelings.
 
-You will like those projects!
 
 ---
 
