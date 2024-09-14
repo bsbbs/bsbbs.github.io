@@ -10,8 +10,8 @@ __[Glimcher lab](https://www.neuroeconomicslab.org/), New York University, Gross
 - __[Social decision-making driven under emotions](https://www.pnas.org/doi/10.1073/pnas.2302484120)__ - understand how our mind handles complex social interactions to serve our feelings.
 
 ---
-![photo](https://github.com/bsbbs/bsbbs.github.io/blob/main/IMG_8828.jpg?raw=true)
-Bo at his favorite Jamaica Bay Wildlife Refuge, New York, February, 2024
+![photo](https://github.com/bsbbs/bsbbs.github.io/blob/main/20240909-DSCF8576.jpg?raw=true)
+Bo Shen married Jia He in New York, September 2024
 
 ---
 # h1 Heading 8-)
