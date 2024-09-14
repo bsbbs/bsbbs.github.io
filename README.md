@@ -1,4 +1,4 @@
-__Postdoc Research Fellow__
+__Research Scientist, Glimcher lab(https://www.neuroeconomicslab.org/)__
 
 __New York University, Grossman School of Medicine__
 
